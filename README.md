@@ -1,2 +1,2 @@
-## MaliciousQrCodeDetector
-# Get the dataset from the link - 
+# MaliciousQrCodeDetector
+[Get the Dataset here] (https://www.kaggle.com/antonyj453/urldataset/)
